@@ -35,14 +35,11 @@ def reverse(x)
     if x > 0
         if num <= 2 ** 31 - 1
             return num
-        else
-            return 0
         end
     else
         if num <= 2 ** 31
             return num * -1
-        else
-            return 0
         end
     end
+    return 0
 end
