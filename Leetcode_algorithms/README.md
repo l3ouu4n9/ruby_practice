@@ -14,3 +14,4 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/21.%20Merge%20Two%20Sorted%20Lists.rb)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.rb)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/27.%20Remove%20Element.rb)|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/28.%20Implement%20strStr().rb)|
