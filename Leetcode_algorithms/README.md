@@ -15,3 +15,4 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.rb)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/27.%20Remove%20Element.rb)|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/28.%20Implement%20strStr().rb)|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/35.%20Search%20Insert%20Position.rb)|
