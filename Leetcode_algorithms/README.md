@@ -17,3 +17,4 @@ LeetCode
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/28.%20Implement%20strStr().rb)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/35.%20Search%20Insert%20Position.rb)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/53.%20Maximum%20Subarray.rb)|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Code](https://github.com/l3ouu4n9/ruby_practice/blob/main/Leetcode_algorithms/58.%20Length%20of%20Last%20Word.rb)|
